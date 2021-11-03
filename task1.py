@@ -1,4 +1,4 @@
-product = input()
+product = input('Insert:  ')
 
 shop = {
     'milk': 10,
